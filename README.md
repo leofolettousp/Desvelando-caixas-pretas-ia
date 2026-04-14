@@ -39,4 +39,4 @@ Todo o conteúdo deste repositório está disponível sob licença
 ## Contato
 
 leonardo.foletto@usp.br  
-[baixacultura.org](https://baixacultura.org)
+[geia.eca.usp.br]
