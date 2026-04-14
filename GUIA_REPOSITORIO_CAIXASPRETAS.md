@@ -3,7 +3,7 @@
 
 > Projeto de pesquisa vinculado ao Claro nº 1245716, Departamento de Comunicação e Artes (CCA), ECA-USP.  
 > Proponente: Prof. Dr. Leonardo Feltrin Foletto  
-> Área: Tecnologias da Comunicação com ênfase em Inteligência Artificial
+> Área: Tecnologias da Comunicação e Inteligência Artificial
 
 ---
 
